@@ -20,9 +20,9 @@ LTTA (Higher School of Economics Lyceum Table Tennis Application)
 - Google Chrome (134.0.6998.88.80+)
 - Safari (18+)
 - Firefox (136+)
-- Яндекс Браузер 
-- Opera (25+)
-- Edge (131.0.2903.48+)
+- Яндекс Браузер (v25+)
+- Opera (v[106 - 116])
+- Edge (v131.0.2903.48+)
 
 ### [ ФУНКЦИОНАЛЬНЫЕ ТРЕБОВАНИЯ ]
 Программный продукт будет предоставлять данные возможности:
